@@ -1,5 +1,7 @@
 # @ori-serve/sip-sdk
 
+[![npm package](https://img.shields.io/badge/npm-@ori--serve/dialer--sdk-blue.svg)](https://www.npmjs.com/package/@ori-serve/dialer-sdk)
+
 Browser SDK for ORI SIP/WebRTC agent communication — handles JsSIP internally.
 
 ## Installation
